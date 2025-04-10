@@ -1,0 +1,175 @@
+Global object name: 1
+interface: wl_compositor
+version:6
+Global object name: 3
+interface: zwp_tablet_manager_v2
+version:1
+Global object name: 4
+interface: zwp_keyboard_shortcuts_inhibit_manager_v1
+version:1
+Global object name: 5
+interface: zxdg_decoration_manager_v1
+version:1
+Global object name: 6
+interface: wp_viewporter
+version:1
+Global object name: 7
+interface: wp_security_context_manager_v1
+version:1
+Global object name: 8
+interface: wp_fractional_scale_manager_v1
+version:1
+Global object name: 9
+interface: wl_shm
+version:1
+Global object name: 10
+interface: wl_seat
+version:9
+Global object name: 11
+interface: zwp_pointer_gestures_v1
+version:3
+Global object name: 12
+interface: zwp_pointer_constraints_v1
+version:1
+Global object name: 13
+interface: zwp_relative_pointer_manager_v1
+version:1
+Global object name: 14
+interface: wl_data_device_manager
+version:3
+Global object name: 15
+interface: zwlr_data_control_manager_v1
+version:2
+Global object name: 16
+interface: wp_cursor_shape_manager_v1
+version:1
+Global object name: 17
+interface: zwp_primary_selection_device_manager_v1
+version:1
+Global object name: 18
+interface: org_kde_kwin_idle
+version:1
+Global object name: 19
+interface: zwp_idle_inhibit_manager_v1
+version:1
+Global object name: 20
+interface: ext_idle_notifier_v1
+version:1
+Global object name: 21
+interface: org_kde_plasma_shell
+version:8
+Global object name: 22
+interface: org_kde_kwin_appmenu_manager
+version:2
+Global object name: 23
+interface: org_kde_kwin_server_decoration_palette_manager
+version:1
+Global object name: 25
+interface: org_kde_plasma_virtual_desktop_management
+version:2
+Global object name: 27
+interface: org_kde_kwin_shadow_manager
+version:2
+Global object name: 28
+interface: org_kde_kwin_dpms_manager
+version:1
+Global object name: 29
+interface: org_kde_kwin_server_decoration_manager
+version:1
+Global object name: 30
+interface: kde_output_management_v2
+version:12
+Global object name: 31
+interface: zxdg_output_manager_v1
+version:3
+Global object name: 32
+interface: wl_subcompositor
+version:1
+Global object name: 33
+interface: zxdg_exporter_v2
+version:1
+Global object name: 34
+interface: zxdg_importer_v2
+version:1
+Global object name: 37
+interface: xdg_activation_v1
+version:1
+Global object name: 39
+interface: wp_content_type_manager_v1
+version:1
+Global object name: 40
+interface: wp_tearing_control_manager_v1
+version:1
+Global object name: 41
+interface: xdg_toplevel_drag_manager_v1
+version:1
+Global object name: 42
+interface: xdg_toplevel_icon_manager_v1
+version:1
+Global object name: 43
+interface: kde_screen_edge_manager_v1
+version:1
+Global object name: 44
+interface: frog_color_management_factory_v1
+version:1
+Global object name: 45
+interface: wp_presentation
+version:2
+Global object name: 46
+interface: wp_color_manager_v1
+version:1
+Global object name: 47
+interface: xdg_wm_dialog_v1
+version:1
+Global object name: 48
+interface: kde_external_brightness_v1
+version:2
+Global object name: 49
+interface: wp_alpha_modifier_v1
+version:1
+Global object name: 51
+interface: wl_drm
+version:2
+Global object name: 52
+interface: zwp_linux_dmabuf_v1
+version:4
+Global object name: 53
+interface: wp_linux_drm_syncobj_manager_v1
+version:1
+Global object name: 55
+interface: xdg_wm_base
+version:6
+Global object name: 56
+interface: zwlr_layer_shell_v1
+version:5
+Global object name: 58
+interface: kde_output_device_v2
+version:11
+Global object name: 59
+interface: wl_output
+version:4
+Global object name: 60
+interface: wp_drm_lease_device_v1
+version:1
+Global object name: 61
+interface: kde_output_order_v1
+version:1
+Global object name: 62
+interface: zwp_text_input_manager_v1
+version:1
+Global object name: 63
+interface: zwp_text_input_manager_v2
+version:1
+Global object name: 64
+interface: zwp_text_input_manager_v3
+version:1
+Global object name: 66
+interface: org_kde_kwin_blur_manager
+version:1
+Global object name: 67
+interface: org_kde_kwin_contrast_manager
+version:2
+Global object name: 68
+interface: xdg_system_bell_v1
+version:1
+Deleted: 3
